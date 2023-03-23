@@ -1,0 +1,71 @@
+obs.ID,Date,Time,Observer,Reporter,Light.Level,Hand.No,Species,Age.ID,Mass.g,Substrate.Temp.C,Animal.Temp.C,Time.in.Bucket.s,No.of.Pictures,Photo.IDs,Comments
+1,1/21/22,15:33:00,DH_NS,AKB,high,1,R_capito,juvenile_6A,10.84,15.1,12.1,140,1,100-0015,***added age.ID and mass.g (but not at end like on sheet)
+2,1/21/22,15:37:00,DH_NS,AKB,high,,R_capito,juvenile_6A,10.84,14.5,11.5,120,1,100-0017,"***should empty cells stay empty or ""N/A""??"
+3,1/21/22,15:42:00,DH_NS,AKB,high,2,R_capito,juvenile_6A,10.84,14.2,10.8,140,2,100-0020; 100-0021,***should I keep this or do a row per data? So 2 rows for this one (both under obs.id 3)
+4,1/21/22,15:45:00,DH_NS,AKB,high,3,R_capito,juvenile_6A,10.84,14.1,10.5,4,0,,
+5,1/21/22,15:46:00,DH_NS,AKB,high,4,R_capito,juvenile_6A,10.84,14.1,10.6,95,0,,
+6,1/21/22,16:00:00,DH_NS,AKB,high,1,R_capito,juvenile_6B,9.96,14.7,12.9,80,0,,6A & 6B are tank 6
+7,1/21/22,16:04:00,DH_NS,AKB,high,,R_capito,juvenile_6B,9.96,14.1,13.5,78,0,,
+8,1/21/22,16:09:00,DH_NS,AKB,high,3,R_capito,juvenile_6B,9.96,14,12.3,130,1,100-0044,
+9,1/21/22,16:13:00,DH_NS,AKB,high,5,R_capito,juvenile_6B,9.96,14.1,12.2,65,0,,
+10,1/21/22,16:17:00,DH_NS,AKB,high,1,R_capito,juvenile_6B,9.96,14.3,12.5,81,1,100-0048,
+11,1/21/22,16:30:00,DH_NS,AKB,high,1,R_capito,adult_1,58.65,14.4,13.3,82,0,,adult_1 - left (smaller) frog
+12,1/21/22,16:35:00,DH_NS,AKB,high,2,R_capito,adult_1,58.65,13,11.9,83,0,,
+13,1/21/22,16:37:00,DH_NS,AKB,high,3,R_capito,adult_1,58.65,13.9,12,74,2,100-0055; 100-0056,
+14,1/21/22,16:44:00,DH_NS,AKB,high,4,R_capito,adult_1,58.65,14,11.7,86,1,100-0058,
+15,1/21/22,16:47:00,DH_NS,AKB,high,0,R_capito,adult_1,58.65,14.5,11.7,70,1,100-0061,
+17,1/25/22,10:03:00,DH,DH,high,,R_capito,adult_1,58.65,19.6,17.7,79,1,100-0065,skipped obs.ID 16 (no data)
+18,1/25/22,10:08:00,DH,DH,high,2,R_capito,adult_1,58.65,19.7,17.7,77,2,100-0067; 100-0068,
+19,1/25/22,10:16:00,DH,DH,high,,R_capito,adult_1,58.65,19.7,18,84,2,100-0071; 100-0072,
+20,1/25/22,10:23:00,DH,DH,high,4,R_capito,adult_1,58.65,19.4,19.2,93,0,,
+21,1/25/22,10:29:00,DH,DH,high,0,R_capito,adult_1,58.65,19.1,17.9,73,2,100-0075; 100-0076,
+22,1/25/22,10:40:00,DH,DH,high,1,R_capito,adult_2,70.2,19.6,18.8,67,0,,adult_2 - right (bigger) frog
+23,1/25/22,10:48:00,DH,DH,high,2,R_capito,adult_2,70.2,19.1,18,88,2,100-0079; 100-0080,
+24,1/25/22,10:55:00,DH,DH,high,3,R_capito,adult_2,70.2,19.5,17.7,37,0,,
+25,1/25/22,11:03:00,DH,DH,high,0,R_capito,adult_2,70.2,19.5,17.5,78,0,,
+26,1/25/22,11:24:00,DH,DH,high,,R_capito,adult_1,58.65,20.1,16.1,67,1,100-0087,
+27,1/25/22,11:28:00,DH,DH,high,,R_capito,adult_1,58.65,19.8,16.4,64,2,100-0088; 100-0089,
+28,1/25/22,11:32:00,DH,DH,high,2,R_capito,adult_1,58.65,19.5,15.9,91,1,100-0091,
+29,1/25/22,11:39:00,DH,DH,high,0,R_capito,adult_1,58.65,19.5,17.3,65,1,100-0094,
+30,1/25/22,11:42:00,DH,DH,high,1,R_capito,adult_1,58.65,19.5,17.5,79,0,,
+31,1/25/22,11:46:00,DH,DH,high,3,R_capito,adult_1,58.65,19.6,16.5,62,1,100-0097,
+32,1/26/22,15:06:00,JM_NS,NS,high,4,R_capito,adult_1,53.5,19.8,22.7,61,2,100-0100; 100-0101,no mass written - I assumed this is adult_1 w/ mass 53.5 g
+33,1/26/22,15:01:00,JM_NS,NS,high,1,R_capito,adult_1,53.5,19.6,22.2,101,0,,"***32,33,34 times don't make sense ??"
+34,1/26/22,15:04:00,JM_NS,NS,high,2,R_capito,adult_1,53.5,18.8,23.1,38,1,100-0105,32-39 assuming adult_1
+35,1/26/22,15:13:00,JM_NS,NS,high,,R_capito,adult_1,53.5,19,22.1,76,1,100-0108,
+36,1/26/22,15:31:00,NS,NS,high,0,R_capito,adult_1,53.5,18.5,19.4,71,0,,
+37,1/26/22,15:34:00,NS,NS,high,1,R_capito,adult_1,53.5,19,19.2,50,0,,
+38,1/26/22,15:35:00,NS,NS,high,2,R_capito,adult_1,53.5,18.1,18.3,,0,,went through backwards
+39,1/26/22,15:37:00,NS,NS,high,,R_capito,adult_1,53.5,18.5,18.6,76,0,,
+40,1/26/22,15:48:00,NS,NS,high,,R_capito,adult_2,64.3,18,19.1,58,1,100-0158,came out front
+42,1/26/22,15:51:00,NS,NS,high,0,R_capito,adult_2,64.3,18.1,18.8,123,0,,
+43,1/26/22,16:07:00,NS,NS,high,1,R_capito,adult_2,64.3,18.6,23.3,83,0,,
+44,1/26/22,16:15:00,NS,NS,high,,R_capito,adult_2,64.3,18.1,21.4,72,0,,
+45,1/26/22,16:21:00,NS,NS,high,2,R_capito,adult_2,64.3,19,21.6,42,0,,
+46,2/8/22,8:44:00,DH,DH,high,1,R_capito,adult_1,59.7,19.5,20.1,71,1,100-0169,
+47,2/8/22,8:50:00,DH,DH,high,2,R_capito,adult_1,59.7,19.4,23.9,64,1,100-0175,
+48,2/8/22,8:53:00,DH,DH,high,3,R_capito,adult_1,59.7,19.5,22.7,62,1,100-0177,
+49,2/8/22,8:55:00,DH,DH,high,4,R_capito,adult_1,59.7,19.2,22.4,2,0,,
+50,2/8/22,8:57:00,DH,DH,high,0,R_capito,adult_1,59.7,19.1,21.3,62,0,,
+51,2/8/22,8:59:00,DH,DH,high,1,R_capito,adult_1,59.7,18.9,21.1,60,0,,
+52,2/8/22,9:01:00,DH,DH,high,2,R_capito,adult_1,59.7,19.1,20,63,0,,
+53,2/8/22,9:05:00,DH,DH,high,3,R_capito,adult_1,59.7,18.9,21.3,72,0,,
+54,2/8/22,9:07:00,DH,DH,high,0,R_capito,adult_1,59.7,19,20.5,12,0,,
+55,2/8/22,9:19:00,DH,DH,high,1,R_capito,adult_2,65.6,19.3,20.8,80,0,,reversed back through
+56,2/8/22,9:21:00,DH,DH,high,2,R_capito,adult_2,65.6,18.9,23.4,65,1,100-0191,reversed back through
+57,2/8/22,9:23:00,DH,DH,high,4,R_capito,adult_2,65.6,18.6,22.9,104,2,100-0194; 100-0195,reversed back through
+58,2/8/22,9:28:00,DH,DH,high,0,R_capito,adult_2,65.6,19.2,21.2,65,1,100-0197,
+59,2/8/22,9:30:00,DH,DH,high,1,R_capito,adult_2,65.6,19,20.3,63,0,,
+60,2/10/22,9:34:00,DH,DH,high,3,R_capito,juvenile_1A,13,20.1,20.1,72,1,100-0205,1A - mark absent
+61,2/10/22,9:40:00,DH,DH,high,4,R_capito,juvenile_1A,13,20,24.1,71,1,100-0209,1A & 1B are tank 1
+62,2/10/22,9:42:00,DH,DH,high,0,R_capito,juvenile_1A,13,19.9,21.2,62,1,100-0212,
+63,2/10/22,9:45:00,DH,DH,high,1,R_capito,juvenile_1A,13,19.6,21.2,63,0,,
+64,2/10/22,9:50:00,DH,DH,high,2,R_capito,juvenile_1A,13,20,21.6,67,1,100-0217,
+65,2/10/22,9:54:00,DH,DH,high,3,R_capito,juvenile_1A,13,19.7,21.5,62,0,,
+66,2/10/22,9:57:00,DH,DH,high,0,R_capito,juvenile_1A,13,19.9,19.7,66,0,,
+67,2/10/22,10:04:00,DH,DH,high,1,R_capito,juvenile_1B,12.8,19.8,21.8,68,1,100-0222,1B - mark present
+68,2/10/22,10:06:00,DH,DH,high,2,R_capito,juvenile_1B,12.8,20.1,20.3,64,0,,
+69,2/10/22,10:15:00,DH,DH,high,3,R_capito,juvenile_1B,12.8,19.9,24.5,64,1,100-0228,
+70,2/10/22,10:17:00,DH,DH,high,1,R_capito,juvenile_1B,12.8,20,20.9,6,1,100-0230,
+71,2/10/22,10:19:00,DH,DH,high,2,R_capito,juvenile_1B,12.8,20,21.5,78,1,100-0232,
+72,2/10/22,10:22:00,DH,DH,high,0,R_capito,juvenile_1B,12.8,20.2,20.8,62,0,,

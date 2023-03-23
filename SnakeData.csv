@@ -1,0 +1,6 @@
+﻿species,sp_code,number,date_caught,time_caught,lat,long,capture_description,SVL (cm),mass_g,max_body_width_cm,max_head_width,release_date,release_time,
+Pantherophis alleghaniensis,PAALL,1,10/12/2021,8:59,33.88506,-83.35744,"In rock crevice along railroad tracks, Whitehall",415,16,10,10,NA,NA,Note: Transferred to another AUP on 12/3/2021
+Storeria occipitomaculata,STOCC,2,10/12/2021,10:13,33.87976,-83.35903,"Under tarp near Pond 9, Whitehall",107,2.8,7,4,12/2/2021,10:45,
+Diadophis punctatus,DIPUN,3,10/12/2021,10:20,33.87976,-83.35903,"Under tarp near Pond 9, Whitehall",255,6.5,7,6,12/2/2021,10:45,
+Lampropeltis getula,LAGET,4,NA,NA,NA,NA,"Outreach animal, captive",1003,470,27,19,NA,NA,
+Pantherophis guttatus,PAGUT,5,NA,NA,NA,NA,"Outreach animal, captive",1400,783,27,22,NA,NA,
